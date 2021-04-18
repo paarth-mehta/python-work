@@ -1,0 +1,20 @@
+List
+
+#1: Favorites
+Make a list of your favorite hobbies and give the list the variable name games . Now make a list of your favorite foods and name the variable foods . Join the two lists and name the result favorites .
+Finally, print the variable favorites.
+ 
+
+Sum
+
+#2: Counting Combatants
+If there are 3 buildings with 25 ninjas hiding on each roof and 2 tunnels with 40 samurai hiding inside each tunnel, how many ninjas and samurai are about to do battle? (You can do this with
+one equation in the Python shell.)
+
+concatenate
+
+#3: Greetings!
+Create two variables: one that points to your first name and
+one that points to your last name. Now create a string and use
+placeholders to print your name with a message using those two
+variables, such as “Hi there, Brando Ickett!”
