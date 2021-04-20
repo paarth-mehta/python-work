@@ -1,0 +1,14 @@
+Assignment
+=============
+
+# 1: A Rectangle
+------------------------
+Create a new canvas using the turtle module’s Pen function and then draw a rectangle.
+
+# 2: A Triangle 
+-------------------------
+Create another canvas, and this time, draw a triangle. Look back at the diagram of the circle with the degrees (“Moving the Turtle” on page 46) to remind yourself which direction to turn the turtle using degrees.
+
+# 3: A Box Without Corners 
+---------------------------
+Write a program to draw the four lines shown here (the size isn’t important, just the shape)
