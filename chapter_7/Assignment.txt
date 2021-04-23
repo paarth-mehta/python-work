@@ -1,0 +1,38 @@
+Assignment:
+
+#1: Basic Moon
+Weight Function
+In Chapter 6, one programming
+puzzle was to create a for loop to
+determine your weight on the moon
+over a period of 15 years. That for
+loop could easily be turned into a
+function. Try creating a function
+that takes a starting weight and
+increases the weight amount each
+year. You might call the new function using code like this:
+>>> moon_weight(30, 0.25)
+#2: Moon Weight Function and Years
+Take the function you’ve just created, and change it to work out
+the weight over different periods, such as 5 years or 20 years. Be
+sure to change the function so that it takes three arguments: initial weight, weight gained each year, and number of years:
+>>> moon_weight(90, 0.25, 5)
+#3: Moon Weight Program
+Instead of a simple function, where you pass in the values as
+parameters, you can make a mini-program that prompts for the
+values using sys.stdin.readline(). In this case, you call the function
+without any parameters at all:
+moon_weight()
+Recycling Your Code with Functions and Modules 91
+The function will display a message asking for the starting
+weight, then a second message asking for the amount the weight
+will increase each year, and finally a message asking for the number of years. You would see something like the following:
+Please enter your current Earth weight
+45
+Please enter the amount your weight might increase each year
+0.4
+Please enter the number of years
+12
+Remember to import the sys module first before creating your
+function:
+>>> import sys

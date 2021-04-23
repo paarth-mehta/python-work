@@ -1,5 +1,5 @@
-ingredients= ['1.paneer', '2.palak', '3.gorilla belly-button lint',
- '4.caterpillar eyebrows', '5.centipede toes']
+ingredients= ['snails', 'leeches', 'gorilla belly-button lint',
+ 'caterpillar eyebrows', 'centipede toes']
 
 x = 1
 for i in ingredients:
